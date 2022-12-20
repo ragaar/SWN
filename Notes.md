@@ -43,8 +43,9 @@
   + Underwater
 
 
-Nandez + Squad looking for Fabricators
++ Mission
+  + Nandez + Squad looking for Fabricators
 
-Fritz + Dallas head towards the ship's Engines
-
-Beowulf + Squad moving towards Bridge and looking for survivors
+  + Fritz + Dallas head towards the ship's Engines
+    + Within a week or so the engines can go catastrophic if they're not oriented properly.
+  + Beowulf + Squad moving towards Bridge and looking for survivors
