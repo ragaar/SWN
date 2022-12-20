@@ -8,9 +8,9 @@
     + Was part of the Cruiser(?)
     + Handled reports/intelligence
 
-    Norvel - spoodr|caveman - Engineer
+    Norvel Fritz - spoodr|caveman - Engineer
     (Fixer/Programmer) - Specialist
-    + Dallas, NPC Assistant
+    + Dallas, NPC Assistant, Nuclear Engineer
 
     Lark - Fillifar - PsiMech Soldier
     (Soldier/Telepath) - Specialist
