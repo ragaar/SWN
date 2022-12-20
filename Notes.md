@@ -45,6 +45,9 @@ Beowulf + Squad moving towards Bridge and looking for survivors
   + Squad is split-up
   + Found the blackbox
 
+# Next Session Outline
+Return to island with supplies, and survivors. Start investigating the caves.
+
 # Research
 ## Fauna
 ### Underwater
