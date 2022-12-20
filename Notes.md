@@ -1,5 +1,5 @@
 # Platoon
-## Squad
+## Squad (Level 4; 12xp)
 Beowulf - Sam - Full Psion
 + (Pilot/Medic) - 1Lt
 
