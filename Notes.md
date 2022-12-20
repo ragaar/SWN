@@ -1,22 +1,22 @@
 # Platoon
 ## Squad (Level 4; 12xp)
-Beowulf - Sam - Full Psion
+**Beowulf** - Sam - Full Psion
 + (Pilot/Medic) - 1Lt
 
-Nandez - Ragaar - True AI
+**Nandez** - Ragaar - True AI
 + (Ship's Clerk/Sniper) - CWO (W2)
   + Was part of the Cruiser(?)
   + Handled reports/intelligence
 
-Norvel Fritz - spoodr|caveman - Engineer
+**Fritz** - spoodr|caveman - Engineer
 + (Fixer/Programmer) - Specialist
 
-Dallas, NPC Assistant, Nuclear Engineer
+**Dallas** - NPC Assistant - Nuclear Engineer
 
-Lark - Fillifar - PsiMech Soldier
+**Lark** - Fillifar - PsiMech Soldier
 + (Soldier/Telepath) - Specialist
 
-Bart - ShrimpMan - Warrior
+**Bart** - ShrimpMan - Warrior
 + (Explosive/Melee) - PFC
   + From Penal Platoon
 
