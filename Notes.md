@@ -41,3 +41,10 @@
   + Cavern
   + Surface
   + Underwater
+
+
+Nandez + Squad looking for Fabricators
+
+Fritz + Dallas head towards the ship's Engines
+
+Beowulf + Squad moving towards Bridge and looking for survivors
